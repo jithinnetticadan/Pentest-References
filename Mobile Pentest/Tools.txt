@@ -1,0 +1,29 @@
+CuckooDroid extends the functionality of Cuckoo Sandbox to analyzing Android applications. 
+Bluestacks simulates the functionality of a rooted Android device.
+Xcode includes a built-in Apple simulator
+
+
+Reverse Engineering
+Android—dex2jar, JD-GUI
+iOS—otool, class-dump-z
+
+Static Analysis
+Android: Androwarn, Andrubis, and ApkAnalyser
+iOS: Flawfinder and Clang Static Analyzer
+
+
+Android Debug Bridge (ADB) is a command-line utility for interfacing with connected Android devices.It includes both Android-specific actions and access to a Unix command shell on the connected device.
+
+Drozer is an automated Android vulnerability scanner.It has several public Android exploits built in to test the vulnerability of the target device.
+
+Frida is dynamic instrumentation framework for on-the-fly code modification for both Android and Apple devices. It enables process injection and function hooking for running applications.
+
+Cycript is an application designed to support modifications of running applications on iOS. Functionality includes process injection, foreign function calls and tab completion.
+
+The iOS Reverse Engineering Toolkit (iRET) by Veracode is an all-in-one analysis toolkit for Apple devices. It contains several different iOS pentesting tools
+
+The Mobile Security Framework (MobSF) is a mobile pentesting framework that supports Android, Apple and iOS devices. It includes functionality for static analysis, dynamic analysis, malware analysis, and web API testing.
+
+Quick Android Review Kit (QARK) is an automated Android application-vulnerability scanner for both source code and compiled apps. It has the capability to automatically generate applications or ADB commands to exploit identified vulnerabilities.
+
+Santoku is a Linux-based virtual machine designed for mobile forensics, malware analysis and penetration testing. It automates data collection, application vulnerability scanning and other tasks related to mobile penetration testing.
